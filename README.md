@@ -1,6 +1,6 @@
 # error_reporting_php
 function to set error reporting based on the mode :null , min , max , dev , custom 
-# inspired from question at http://open-source-customization.com/question/error-reporting-in-php/102
+# inspired from question at http://arrayoverflow.com/question/error-reporting-in-php/102
 
 
 # Null mode :
